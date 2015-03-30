@@ -1,4 +1,7 @@
-game_processing_01
+Racing Object
 ==================
 
-game using processing language with OOP principles 
+Racing game using windows form ideas.
+Trying to implement button,menu... for the project.
+Research about many processing technique.
+
